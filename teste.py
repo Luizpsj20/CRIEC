@@ -1,3 +1,10 @@
+"""
+Desafio Prático — Análise de Imagem de Satélite Simulada
+Processo Seletivo — Bolsa IC: Eventos Climáticos e Desastres no RS
+
+Autor: Luiz Carlos da Silva Junior
+Data: Junho/2026
+"""
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.patches as patches
