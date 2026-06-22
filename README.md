@@ -69,6 +69,3 @@ Valor mínimo: 0
 > pixels fora do bloco simulado também ultrapassa o limiar de 240 por acaso
 > (estatisticamente, ~6,25% dos pixels aleatórios devem cair nessa faixa).
 
-## Autor
-
-Respondido como parte do processo seletivo para a vaga de Iniciação Científica.
