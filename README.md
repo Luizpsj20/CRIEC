@@ -101,7 +101,7 @@ Valor mínimo: 0
 
 ---
 
-## Visualização gerada (bônus)
+## Visualização gerada
 
 ![Visualização da imagem de satélite simulada](visualizacao_imagem_satelite.png)
 
