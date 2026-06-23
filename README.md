@@ -27,7 +27,7 @@ o script realiza três análises:
 
 | Arquivo | Descrição |
 |---|---|
-| `desafio_imagem_satelite.py` | Script principal com todas as funções. |
+| `teste.py` | Script principal com todas as funções. |
 | `testar_desafio.py` | Testes automáticos que validam os resultados. |
 | `visualizacao_imagem_satelite.png` | Imagem gerada pela função de visualização (bônus). |
 | `README.md` | Este arquivo. |
@@ -49,7 +49,7 @@ pip install numpy matplotlib
 ## Como executar
 
 ```bash
-python desafio_imagem_satelite.py
+python teste.py
 ```
 
 Para rodar os testes automáticos:
