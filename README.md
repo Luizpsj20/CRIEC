@@ -69,7 +69,7 @@ Saída esperada: `Todos os testes passaram!`
 | `dimensoes_e_tipo(imagem)` | Imprime o número de linhas/colunas e o `dtype` dos pixels. |
 | `filtro_mascara_nuvens(imagem, limiar=240)` | Conta pixels acima do limiar e calcula o percentual de "nuvem". |
 | `estatistica_regiao_interesse(imagem, ...)` | Extrai a ROI e calcula média, máximo e mínimo dos pixels. |
-| `visualizar_imagem(imagem, ...)` *(bônus)* | Gera figura com a imagem original, a máscara de nuvens e a ROI destacada. |
+| `visualizar_imagem(imagem, ...)` | Gera figura com a imagem original, a máscara de nuvens e a ROI destacada. |
 
 O bloco de geração da matriz (fornecido no enunciado) é mantido intacto no início do arquivo,
 garantindo reprodutibilidade via `np.random.seed(42)`.
